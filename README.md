@@ -38,5 +38,5 @@
   <a href="mailto:dabhihitesh2003@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30" /></a>
   <a href="https://dabhihitesh.prafulchauhan.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" height="30" /></a>
   <a href="https://www.instagram.com/therealprogrammerr" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="30" /></a>
-  <a href="https://leetcode.com/https://leetcode.com/u/dabhi_hitesh36/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/4372/4372695.png" height="30" /></a>
+  <a href="https://leetcode.com/u/dabhi_hitesh36/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/4372/4372695.png" height="30" /></a>
 </p>
