@@ -1,9 +1,3 @@
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I'm+Hitesh+Dabhi;Front-End+Web+Developer;React+Enthusiast;Tech+Lover&center=true&width=500&height=50"
-  />
-</p>
-
 <h1 align="center">Hi 👋, I'm Hitesh Dabhi</h1>
 <h3 align="center">A passionate Front-end developer from Jamnagar, India 📍</h3>
 --- - 🌱 Currently learning Full Stack Development (MERN) - 💬 Ask me about:
