@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Hitesh Dabhi</h1>
 <h3 align="center">A passionate Front-end developer from Jamnagar, India 📍</h3>
-🌱 Currently learning Full Stack Development (MERN) 
-- 💬 Ask me about: HTML, CSS, JavaScript, React, MongoDB, SQL 
-- 📫 Reach me at:**dabhihitesh2003@gmail.com** 
-- 🌐 Visit my portfolio: [dabhihitesh.prafulchauhan.com](https://dabhihitesh.prafulchauhan.com) 
+--- - 🌱 Currently learning Full Stack Development (MERN) - 💬 Ask me about:
+HTML, CSS, JavaScript, React, MongoDB, SQL - 📫 Reach me at:
+**dabhihitesh2003@gmail.com** - 🌐 Visit my portfolio:
+[dabhihitesh.prafulchauhan.com](https://dabhihitesh.prafulchauhan.com) --- ###
+🛠️ Languages and Tools
 <img
   align="right"
   width="400"
