@@ -29,21 +29,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dabhihitesh36&show_icons=true&theme=default" alt="Hitesh's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dabhihitesh36&theme=default" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dabhihitesh366&layout=compact&theme=default" alt="Top Languages" />
-</p>
-
----
 
 ### 🔗 Connect With Me
 
