@@ -4,7 +4,6 @@
 HTML, CSS, JavaScript, React, MongoDB, SQL - 📫 Reach me at:
 **dabhihitesh2003@gmail.com** - 🌐 Visit my portfolio:
 [dabhihitesh.prafulchauhan.com](https://dabhihitesh.prafulchauhan.com) --- ###
-🛠️ Languages and Tools
 <img
   align="right"
   width="400"
