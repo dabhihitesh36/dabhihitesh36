@@ -10,15 +10,11 @@ HTML, CSS, JavaScript, React, MongoDB, SQL - 📫 Reach me at:
   alt="coding"
   src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif"
 />
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?dabhihitesh36&label=Profile%20views&color=0e75b6&style=flat"
-    alt="dabhihitesh36"
-  />
-</p>
+
 
 - 👨‍💻 All of my projects are available at
-[Portfolio](https://dabhihitesh.prafulchauhan.com/) - 📫 How to reach me
+[Portfolio](https://dabhihitesh.prafulchauhan.com/)
+ - 📫 How to reach me
 **dabhihitesh2003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
